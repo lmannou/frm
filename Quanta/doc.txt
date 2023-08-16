@@ -1,0 +1,4 @@
+1- python -m venv venv_frm
+2- venv_frm\Scripts\activate
+python -m pip list
+3- python -m pip install numpy
